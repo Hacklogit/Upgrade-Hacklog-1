@@ -1,6 +1,6 @@
 # Attenzione! Leggi prima di iniziare!
 
-La nuova versione dell'Hacklog prevede un nuovo modo per mostrare i comandi da utente normale e da utente root.
+La nuova versione dell'Hacklog prevede un nuovo modo per mostrare i comandi da utente normale e da utente root.****
 
 ---
 
@@ -23,3 +23,8 @@ Ricorda quindi che puoi sempre elevare i tuoi permessi ad utente root lanciando:
 $ su
 ```
 quindi inserendo la password di root scelta in fase di installazione del Sistema Operativo. Da lì in poi, lancia tutti i comandi che vuoi!
+
+Per tornare utente non-root:
+```
+# exit
+```
